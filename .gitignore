@@ -1,0 +1,6 @@
+# Ignore node_modules
+data/
+build/
+.DS_Store
+*.log
+*.tmp
